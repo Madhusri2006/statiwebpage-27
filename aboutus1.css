@@ -1,0 +1,21 @@
+.about-section{
+    text-align: center;
+    background-color: aqua;
+    padding: 30px;
+    border-radius: 9px;
+    box-shadow:0 4px 8px (0,0,0,1) ;
+    max-width: 900px;
+    margin: 50px auto;
+
+}
+.text-color{
+    color: blue;
+}
+body{
+    background-color: white;
+}
+.img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 9px;
+}

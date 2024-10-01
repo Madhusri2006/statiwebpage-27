@@ -1,0 +1,32 @@
+.houses{
+    padding: 20px;
+    text-align: center;
+border-radius: 10px;
+font-size: larger;
+}
+.product-grid{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+}
+.product-card{
+    border: 1px solid;
+    width:100%
+    height:auto;
+    
+
+}
+.product-card button{
+    margin-top: 100px;
+    padding: 10px 20px;
+    background-color: aqua;
+    color: deeppink;
+}
+.product-card button:hover;{
+backgroung color: pink
+
+}
+.products-card img{
+    width: 100%;
+    height: auto;
+}
